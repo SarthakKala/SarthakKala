@@ -1,4 +1,4 @@
-![MasterHead](anime-aesthetic.gif)
+
 <h1 align="center">👋 Hey there! I'm Sarthak Kala</h1>
 <h3 align="center">he/him</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/a5/35/60/a53560c8088900e266880f779dacced7.gif">
