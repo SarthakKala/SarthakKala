@@ -1,20 +1,20 @@
-<div align="center"> <img src="https://raw.githubusercontent.com/SarthakKala/SarthakKala/main/Linkedin Banner.jpeg"> </div>
+<div align="center"> <img src="https://raw.githubusercontent.com/SarthakKala/SarthakKala/main/DEVELOPER_2.png"> </div>
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4500&lines=Hi+There!+👋;+I'm+Sarthak+Kala!;" />
 </h1>
 
-<h3 align="center">A third-year engineering student from India with a strong passion for technology.</h3>
+<h3 align="center">A Final year engineering student from India with a strong passion for technology.</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on **React.js and Javascript**
+ 🔭 I’m currently working on **Golang**
  
- 🌱 I’m currently learning **ML/AI**
+ 🌱 I’m currently learning **Rag & MCP**
 
-💬 Ask me about **Front-end development**
+💬 Ask me about **Development**
 
 ⚡ Fun fact **Why did the developer cross the road? To commit and push the code.**
 
