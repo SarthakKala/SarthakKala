@@ -1,66 +1,53 @@
-<div align="center"> <img src="https://raw.githubusercontent.com/SarthakKala/SarthakKala/main/DEVELOPER_2.png"> </div>
+# Hey, I'm Sarthak
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4500&lines=Hi+There!+👋;+I'm+Sarthak+Kala!;" />
-</h1>
+I build software systems — full stack, with a current focus on RAG pipelines and MCP integrations.
 
-<h3 align="center">A Final year engineering student from India with a strong passion for technology.</h3>
 
-<br/>
+### **TECH I USE**
+- programming: C++, Python, TypeScript, Go, SQL
+- backend: Node.js, FastAPI, PostgreSQL, Prisma
+- frontend: React, Next.js, Tailwind, React Native
+- ai/data: Langchain, RAG, MCP
+- tools: Git, Docker, Linux, Postman, Figma
 
-<div align="center">
- 
- 🔭 I’m currently working on **Golang**
- 
- 🌱 I’m currently learning **Rag & MCP**
 
-💬 Ask me about **Development**
 
-⚡ Fun fact **Why did the developer cross the road? To commit and push the code.**
+### THINGS I BUILD
 
- </div>
- 
-<div align="center"> 
-  <a href="mailto:35kalasarthak@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-0077B5?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/sarthakkala" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://raw.githubusercontent.com/SarthakKala/SarthakKala/main/Sarthak Resume.pdf" target="_blank">
-     <img src="https://img.shields.io/badge/Resume-0077B5?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
-</div>
+- **Er. Forge**
+AI system that connects to your LeetCode account, diagnoses why you keep failing the same problem types, scores you across 12 skill concepts, and assigns targeted practice — with a shareable recruiter report at the end.
+`Next.js 14` `Node.js + Express` `PostgreSQL` `OpenRouter` `Google OAuth + JWT`
+> LeetCode has no official API — authenticated against their internal GraphQL endpoint using session cookie + CSRF token passed by the user
 
- <hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,sass,javascript,jquery,react" /><br>
-    <img src="https://skillicons.dev/icons?i=matlab,python,c,mysql,vscode,github,git,figma,illustrator"/><br>
-</div>
+- **Toonie**
+Describe an animation in plain English, get live p5.js code running in the browser instantly — then record clips and assemble them into a single exported video on a timeline editor.
+`React + Vite` `NestJS` `p5.js` `OpenRouter` `TypeScript`
+> Dynamically executing AI-generated p5.js inside React without crashing the page required sandboxing sketch execution away from the main React tree
 
-<br/>
-<hr/>
+- **WhyOpen**
+Chrome extension that silently classifies the intent behind every tab you open — Research, Work, Entertainment, etc. — and shows a live badge for all open tabs in the popup.
+`Chrome MV3` `Node.js + Express` `Prisma` `Neon` `Google Gemini`
+> Built a two-layer cache — chrome.storage.local first, Neon DB second — so the AI is only ever called once per unique URL
 
-<h2 align="center">⚡ Stats ⚡</h2>
+
+
+### HOW I APPROACH THINGS
+
+Keep it simple · Make it observable · Fix what breaks
+
+
+
+### WHAT I'M WORKING TOWARDS
+
+- deeper system design and backend fundamentals
+- moving from demos to systems that can actually be used
+
+
+
+### OUTSIDE THE TERMINAL
+
+Lifting weights, capturing frames, sketching ideas, and occasionally losing games I was sure I'd win.
+
 <br>
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=SarthakKala&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=SarthakKala&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=SarthakKala&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
 
-<br/><br/>
-
-<hr/>
-
-<br/>
-
-<div align="center">
-<a href='https://ko-fi.com/withicecream' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-</div>
-
-<br/>
+[LinkedIn](https://www.linkedin.com/in/sarthakkala) · [Codolio](https://codolio.com/profile/SarthakKala) · [Instagram](https://www.instagram.com/s.kala03/) · [Email](mailto:35kalasarthak@gmail.com)
