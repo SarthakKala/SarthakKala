@@ -50,4 +50,4 @@ Lifting weights, capturing frames, sketching ideas, and occasionally losing game
 
 <br>
 
-[LinkedIn](https://www.linkedin.com/in/sarthakkala) · [Codolio](https://codolio.com/profile/SarthakKala) · [Instagram](https://www.instagram.com/s.kala03/) · [Email](mailto:35kalasarthak@gmail.com)
+[RESUMT](https://drive.google.com/file/d/1i4g-qIBjbexcZxJv5uPdYd9VVB9PV2I0/view?usp=sharing) · [LinkedIn](https://www.linkedin.com/in/sarthakkala) · [Codolio](https://codolio.com/profile/SarthakKala) · [Instagram](https://www.instagram.com/s.kala03/) · [Email](mailto:35kalasarthak@gmail.com)
